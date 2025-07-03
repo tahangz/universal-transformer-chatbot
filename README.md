@@ -1,8 +1,14 @@
-# Universal Transformer Chatbot 🤖
+![image](https://github.com/user-attachments/assets/e593e11e-2a71-4d60-a535-489d64f4f642)# Universal Transformer Chatbot 🤖
 
-This chatbot is built using the Universal Transformer model, which extends the original Transformer with recurrence and dynamic depth. It’s based on the paper ["Universal Transformers"](https://arxiv.org/abs/1807.03819) by Google Brain.
+This chatbot is built using the Universal Transformer model, coded from scratch, which extends the original Transformer with recurrence and dynamic depth. It’s based on the paper ["Universal Transformers"](https://arxiv.org/abs/1807.03819) by Google Brain.
 
 > 🧠 This work is inspired by Google's Universal Transformer architecture, which improves generalization through shared layers and adaptive computation.
+
+<p align="center">
+  <img src="Screenshot 2025-07-03 031945.png" alt="Sample Gesture" width="900"/>
+</p>
+
+
 
 ## 🔧 Model Overview
 The model:

@@ -1,4 +1,4 @@
-# Universal Transformer Chatbot 🧠
+# Universal Transformer Chatbot 🤖
 
 This chatbot is built using the Universal Transformer model, which extends the original Transformer with recurrence and dynamic depth. It’s based on the paper ["Universal Transformers"](https://arxiv.org/abs/1807.03819) by Google Brain.
 

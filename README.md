@@ -5,7 +5,7 @@ This chatbot is built using the Universal Transformer model, coded from scratch,
 > 🧠 This work is inspired by Google's Universal Transformer architecture, which improves generalization through shared layers and adaptive computation.
 
 <p align="center">
-  <img src="Screenshot 2025-07-03 031945.png" alt="Sample Gesture" width="900"/>
+  <img src="Screenshot 2025-07-03 031945.png" alt="Sample Gesture" width="600"/>
 </p>
 
 
